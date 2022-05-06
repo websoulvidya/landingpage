@@ -1,0 +1,11 @@
+ul{list-style: none;}
+ul>li{padding: 2rem; background-color: burlywood; margin-bottom: 2px;}
+.changebgred{
+    background-color: red;
+}
+.changebggreen{
+    background-color: green;
+}
+.changebgblack{
+    background-color: black;
+}
